@@ -1,8 +1,8 @@
 
 
-# Welcome to my blog!!
+# Connecting with Aviation at the Intrepid Museum !!
 
-## Connecting with Aviation at the Intrepid Museum 
+## An awesome summer Intership
 <br>  <br>
 This summer I was lucky to be selected for the Techs of Tomorrow program at the Intrepid Museum which delved to promote young girls in STEM. The Intrepid Museum is an aircraft carrier commissioned in 1943 and served in the Cold War and Vietnam War. It later opened as a museum in 1982 for planes that served during the wars.  Through this program, I dove into the world of STEM which made me start thinking of careers within Aviation.
 <br>
