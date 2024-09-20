@@ -5,7 +5,9 @@
 ## An awesome summer Intership
 <br>  <br>
 This summer I was lucky to be selected for the Techs of Tomorrow program at the Intrepid Museum which delved to promote young girls in STEM. The Intrepid Museum is an aircraft carrier commissioned in 1943 and served in the Cold War and Vietnam War. It later opened as a museum in 1982 for planes that served during the wars.  Through this program, I dove into the world of STEM which made me start thinking of careers within Aviation.
-<br>
+<br> 
+
+
 
 One of the first things we did was focus on the planning and design portion of the project to prepare us for working on the 3d models. In any project, the design stage is important since it helps you make improvements along the way. This meant drawing the plane design for what I was going to do. 
 
