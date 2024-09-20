@@ -14,7 +14,7 @@ One of the first things we did was focus on the planning and design portion of t
 <br>
 Through this process, I was able to make the 3d model on TinkerCad. 
 <br> <br> <br>
-<img src="Images/plane.jpg alt="picture of plane">  
+<img src="Images/rrr.jpg" alt="picture of 3d plane">  
 <br> <br> <br>
 My design was Inspired by an aircraft I saw on the flight deck at the Intrepid Museum. 
 <br>  <br>
