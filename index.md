@@ -4,7 +4,7 @@
 
 ## An awesome summer Intership
 <br>  <br>
-This summer I was lucky to be selected for the Techs of Tomorrow program at the Intrepid Museum which delved to promote young girls in STEM. The Intrepid Museum is an aircraft carrier commissioned in 1943 and served in the Cold War and Vietnam War. It later opened as a museum in 1982 for planes that served during the wars.  Through this program, I dove into the world of STEM which made me start thinking of careers within Aviation.
+This summer I was lucky to be selected for the Techs of Tomorrow program at the Intrepid Museum which delved to promote young girls in STEM. The Intrepid Museum is an aircraft carrier commissioned in 1943 and served in the Cold War and Vietnam War. It later opened as a museum in 1982 for planes that served during the wars.  Through this program, I dove into the world of STEM which made me start thinking of careers within Aviation.   
 <br> 
 
 
@@ -17,7 +17,8 @@ Through this process, I was able to make the 3d model on TinkerCad.
 <img src="Images/hhh.jpg" alt="a 3d model of a plane"> 
 <br> <br> <br>
 My design was Inspired by an aircraft I saw on the flight deck at the Intrepid Museum. 
-<br>  <br>
+<br>  <br> 
+
 
 I also made another 3d model on Tinkercad for a shelter on the Moon. This made me think of different aspects of my habit such as needing a filtration system, heater, and source of food. I also put into account how each of the buildings will look especially since I was making a research facility.   
 <br>  <br> <br>
@@ -25,6 +26,7 @@ I also made another 3d model on Tinkercad for a shelter on the Moon. This made m
 <br> <br> <br>
 As part of the planning and design process, we made Range Rovers for the Moon or Mars. In My group, we decided to make a Rover for Mars. We know that Mars usually has a rough surface so we will need wheels that can travel through its surface. Which led us to design it using everyday material such as cardboard, straws, and etc. 
 <br> 
+
  While we were working on designing projects for space, the Intrepid Museum had an exhibit called When We Go to the Moon, which we were able to explore for inspiration. I was able to see the Space Shuttle Enterprise, which was the first orbiter of the space shuttle system. It was built by NASA for mainly test flights, so its height in the air was the same as that of an airplane. 
 <br> <br> <br>
 <img src="Images/space.jpg" alt="picture of the space shuttle">
@@ -40,6 +42,7 @@ Next was one of my favorite projects we worked on and this was a team project. T
 <br> <br> <br>
 As the work was split everyone did their parts then we used the platform blender. One of the challenges of using this software was since it was my first time it took a while to get used to such as adding quizzes and voiceovers but eventually with practice I was able to get it. 
 <br> 
+
 Finally, our VR model was done and we had the opportunity to present it to visitors at the museum. 
 <br> <br> <br>
 <img src="Images/public.jpg" alt="Prensenting to the public">
@@ -50,9 +53,11 @@ Next on code.org, I was able to create an app based on my resume which was based
 <br> <br> <br> 
 One of the most memorable times at my internship was mentorship mornings. This was when every Friday we were able to meet women like ourselves who work in the stem field and through that we were able to meet a lot of people from NASA or aviation lawyers.
 <br> 
+
 This inspired me. 
 <br> <br> <br>
 <img src="Images/mentorship.JPG" alt="mentorship">
 <br> <br> <br>
 Also throughout this Internship every time we made a project we got to go and present what we did to the people in the museum to which they gave us feedback on our work. This helped me build my social skills since it required a lot of speaking as well as teamwork among my coworkers. 
-<br> 
+<br>    
+
