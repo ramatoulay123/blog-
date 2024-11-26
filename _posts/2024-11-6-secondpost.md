@@ -36,7 +36,7 @@ In 1520, Henry had developed feelings for Anne Boelyn, another lady in waiting t
 # 2. Anne Boleyn (Beheaded)
 
 <br> 
-<img src="Images/Anne.webp" alt="Picture of Anne Boleyn" width="50" height="50"> 
+<img src="Images/anne.webp" alt="Picture of Anne Boleyn" width="50" height="50"> 
 
 <br> 
 
@@ -85,6 +85,9 @@ A lot of people believe that Jane seymour was the one he truly loved.
 # 4. Anne of cleves (Divorced)
 
 <br>
+<img src="Images/Annec.webp" alt="Picture of Anne of cleves" width="50" height="50"> 
+
+<br> 
 
 Anne of cleves was Henry 4th wife. Henry was single for 2 years before his chief of minister suggested he form a europe alliance by marrying one of the sisters of germany's duke of cleves. 
 
@@ -103,6 +106,8 @@ she died july 1557.
 # 5. Catherine Howard (Beheaded)
 
 <br>
+<img src="Images/catherine.avif" alt="Picture of catherine howard" width="50" height="50"> 
+<br>
 
 Catherine Howard was a lady in waiting to Anne of Cleves and he ended up marrying her, during this time she was between 17 and 19 years old. 
 
@@ -116,6 +121,9 @@ However less than a year into their marriage there were rumors of Catherine Infi
 # 6. Catherine Parr (Survived) 
 
 <br>
+<img src="Images/parr.jpg" alt="Picture of Catherine parr" width="50" height="50"> 
+<br>
+
 
 Henry married Catherine Parr in July 1543 which would be his last wife. She was well educated and spirited. When Catherine showed an interest in protestantism he had her arrested, however she was able to avoid the fate of her preccedors. 
 
@@ -124,6 +132,10 @@ Catherine had a lot of influence on a lot of areas such as religion, court cultu
 She was also able to convince Henry to put his daughters Mary and Elizabeth to the order of sucession and served as regent when he went off to war with france. 
 
 Henry died in 1547 and she died a year after him. 
+
+<br>
+
+Henry VIII, the King of England from 1509 to 1547, is infamous for his six wives. His first wife, Catherine of Aragon, was divorced. Anne Boleyn, his second wife, was beheaded. Jane Seymour, his third wife, died shortly after giving birth to their son, Edward VI. Anne of Cleves was divorced, and Catherine Howard was beheaded for adultery. His sixth and final wife, Catherine Parr, survived him. Henry's tumultuous reign and his impact on the Church of England have left a lasting mark on history. 
 
 
 
