@@ -11,7 +11,7 @@ I love History and all the interesting stories that come from it. This story is 
 
 # 1. Catherine of Aragon (Divorced) 
 
-<img src="/blog-/Images/Aragon.jpg" alt="Picture of catherine of aragon" width="50" height="50">  
+<img src="/blog-/Images/Aragon.jpg" alt="Picture of catherine of aragon" width="100" height="200">          
 
 <br>
 <br> 
@@ -36,7 +36,7 @@ In 1520, Henry had developed feelings for Anne Boelyn, another lady in waiting t
 # 2. Anne Boleyn (Beheaded)
 
 <br> 
-<img src="/blog-/Images/anne.webp" alt="Picture of Anne Boleyn" width="50" height="50"> 
+<img src="/blog-/Images/anne.png" alt="Picture of Anne Boleyn" width="100" height="200">  
 
 
 <br> 
@@ -63,7 +63,7 @@ On May 19, 1536 Anne was beheaded for these accused crimes which were most likel
 
 <br>
 
-<img src="/blog-/Images/Jane.jpg" alt="Picture of Jane Seymour" width="50" height="50"> 
+<img src="/blog-/Images/Jane.jpeg" alt="Picture of Jane Seymour" width="100" height="200">  
 
 <br>
 
@@ -86,7 +86,7 @@ A lot of people believe that Jane seymour was the one he truly loved.
 # 4. Anne of cleves (Divorced)
 
 <br>
-<img src="/blog-/Images/Annec.webp" alt="Picture of Anne of cleves" width="50" height="50"> 
+<img src="/blog-/Images/Annec.webp" alt="Picture of Anne of cleves" width="100" height="200"> 
 
 <br> 
 
@@ -107,7 +107,7 @@ she died july 1557.
 # 5. Catherine Howard (Beheaded)
 
 <br>
-<img src="/blog-/Images/catherine.avif" alt="Picture of catherine howard" width="50" height="50"> 
+<img src="/blog-/Images/catherine.avif" alt="Picture of catherine howard" width="100" height="200"> 
 <br>
 
 Catherine Howard was a lady in waiting to Anne of Cleves and he ended up marrying her, during this time she was between 17 and 19 years old. 
@@ -122,7 +122,7 @@ However less than a year into their marriage there were rumors of Catherine Infi
 # 6. Catherine Parr (Survived) 
 
 <br>
-<img src="/blog-/Images/parr.jpg" alt="Picture of Catherine parr" width="50" height="50"> 
+<img src="/blog-/Images/parr.jpg" alt="Picture of Catherine parr" width="100" height="200"> 
 <br>
 
 
@@ -136,6 +136,7 @@ Henry died in 1547 and she died a year after him.
 
 <br>
 
+<hr> 
 Henry VIII, the King of England from 1509 to 1547, is infamous for his six wives. His first wife, Catherine of Aragon, was divorced. Anne Boleyn, his second wife, was beheaded. Jane Seymour, his third wife, died shortly after giving birth to their son, Edward VI. Anne of Cleves was divorced, and Catherine Howard was beheaded for adultery. His sixth and final wife, Catherine Parr, survived him. Henry's tumultuous reign and his impact on the Church of England have left a lasting mark on history. 
 
 
