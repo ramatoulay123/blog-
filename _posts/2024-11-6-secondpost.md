@@ -11,7 +11,7 @@ I love History and all the interesting stories that come from it. This story is 
 
 # 1. Catherine of Aragon (Divorced) 
 
-<img src="Images/Aragon.jpg" alt="Picture of catherine of aragon" width="50" height="50">  
+<img src="/blog-/Images/Aragon.jpg" alt="Picture of catherine of aragon" width="50" height="50">  
 
 <br>
 <br> 
@@ -36,7 +36,8 @@ In 1520, Henry had developed feelings for Anne Boelyn, another lady in waiting t
 # 2. Anne Boleyn (Beheaded)
 
 <br> 
-<img src="Images/anne.webp" alt="Picture of Anne Boleyn" width="50" height="50"> 
+<img src="/blog-/Images/anne.webp" alt="Picture of Anne Boleyn" width="50" height="50"> 
+
 
 <br> 
 
@@ -62,7 +63,7 @@ On May 19, 1536 Anne was beheaded for these accused crimes which were most likel
 
 <br>
 
-<img src="Images/Jane.jpg" alt="Picture of Jane Seymour" width="50" height="50"> 
+<img src="/blog-/Images/Jane.jpg" alt="Picture of Jane Seymour" width="50" height="50"> 
 
 <br>
 
@@ -85,7 +86,7 @@ A lot of people believe that Jane seymour was the one he truly loved.
 # 4. Anne of cleves (Divorced)
 
 <br>
-<img src="Images/Annec.webp" alt="Picture of Anne of cleves" width="50" height="50"> 
+<img src="/blog-/Images/Annec.webp" alt="Picture of Anne of cleves" width="50" height="50"> 
 
 <br> 
 
@@ -106,7 +107,7 @@ she died july 1557.
 # 5. Catherine Howard (Beheaded)
 
 <br>
-<img src="Images/catherine.avif" alt="Picture of catherine howard" width="50" height="50"> 
+<img src="/blog-/Images/catherine.avif" alt="Picture of catherine howard" width="50" height="50"> 
 <br>
 
 Catherine Howard was a lady in waiting to Anne of Cleves and he ended up marrying her, during this time she was between 17 and 19 years old. 
@@ -121,7 +122,7 @@ However less than a year into their marriage there were rumors of Catherine Infi
 # 6. Catherine Parr (Survived) 
 
 <br>
-<img src="Images/parr.jpg" alt="Picture of Catherine parr" width="50" height="50"> 
+<img src="/blog-/Images/parr.jpg" alt="Picture of Catherine parr" width="50" height="50"> 
 <br>
 
 
