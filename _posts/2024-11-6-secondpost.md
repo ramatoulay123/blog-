@@ -136,6 +136,8 @@ Henry died in 1547 and she died a year after him.
 
 <br>
 
+
+
 <hr> 
 Henry VIII, the King of England from 1509 to 1547, is infamous for his six wives. His first wife, Catherine of Aragon, was divorced. Anne Boleyn, his second wife, was beheaded. Jane Seymour, his third wife, died shortly after giving birth to their son, Edward VI. Anne of Cleves was divorced, and Catherine Howard was beheaded for adultery. His sixth and final wife, Catherine Parr, survived him. Henry's tumultuous reign and his impact on the Church of England have left a lasting mark on history. 
 
