@@ -9,7 +9,7 @@ From my early teenage years one of the moments I remember the most was watching 
 This show ran for 8 seasons with 22 episodes per season. Watching this was like transferring to a different world where everything was magical from vampire, werewolves, and witches to even mixed creatures like hybrids and heretics. Not only that but this show also introduced the originals which were the oldest and first vampires to roam the earth. In this blog I will give you a breakdown of each season of the vampire diaries.
 <br>
 <br>
-<img src="/blog-/Images/tvd.jpg" alt="Picture of catherine of aragon" width="200" height="400"> 
+<img src="/blog-/Images/tvd.jpg" alt="Picture of the cast of vampire diaries" width="350" height="400"> 
 <br>
 <br>
 <br>
@@ -17,15 +17,22 @@ This show ran for 8 seasons with 22 episodes per season. Watching this was like 
 ## Season 1: 
 
 This season you meet Elena Gilbert who is a high schooler at Mystic Falls high school and she meets a new student at the school named Stefan Salvatore who is a 184 year old vampire and also his brother Damon Salvatore. This season mainly focuses on the Salvatore Brothers past before they were vampires and also Elena’s vampire doppelganger Katherine who turned them. They are fighting for Elena’s love since they both love her. Also this is when Elena discovers about the world of supernaturals. 
+<br>
+<br>
+<br> 
+<img src="/blog-/Images/tvd2.jpg" alt="Elena with Stefan and Damon" width="350" height="400"> 
+<br>
+<br>
 
-
-Season 2: 
+## Season 2: 
 
 In season 2 it starts with Katherine Pierre returning to mystic falls which causes turmoil in everyone’s lives. It is revealed that Elena is a Petrova doppelganger, which is a key element in breaking the sun and moon curse which binds vampires and werewolves together. Also Klaus, one of the original vampire-werewolf hybrids, is hunting Elena to use her for a ritual to break the curse and activate his hybrid nature.  
 
 Meanwhile Tyler Lockhood learns that he is a werewolf and struggles with his first transformation. Also Caroline, one of Elena’s best friends Caroline becomes a vampire and tries to navigate her new life. Bonnie grows into a more powerful witch in order to protect her friends from dangers that lie ahead.
 
 This season ends with Klaus being able to break the curse turning his hybrid form active. In the aftermath Stefan sacrifices himself to Klaus to save Damon. 
+
+<img src="/blog-/Images/tvd3.jpeg" alt="the vampire diaries season 2" width="100" height="200">  
 
 Season 3: 
 
