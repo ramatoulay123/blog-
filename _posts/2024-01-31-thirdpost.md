@@ -101,6 +101,8 @@ The season ends with Kai crashing Jo's wedding, killing many people, and becomin
 ## Season 7 
 In season 7, things are different since Elena is not there anymore. Stefan and Caroline try to keep Mystics Falls safe from Heretics, a super robust witch-vampire hybrid led by Lily Salvatore. 
 After Lily dies, things spiral even more, and a new villain, Rayna Cruz, a badass vampire huntress, goes after Stefan. The season jumps three years into the future, showing Stefan on the run, Damon waiting for Elena in a coffin, and Caroline raising Alaric's twins. It ends on a crazy cliffhanger, with Damon and Enzo vanishing after being taken over by some creepy force in the Armory's vault.
+
+
 <br>
 <img src="/blog-/Images/season6.webp" alt="cast of vampire diaries" width="350" height="400"> 
 <br>
@@ -109,8 +111,12 @@ After Lily dies, things spiral even more, and a new villain, Rayna Cruz, a badas
 ## Season 8
 
 In Season 8,  Damon and Enzo are controlled by an ancient evil siren, Sybil, who forces them to do her dirty work. While Stefan, Bonnie, and Caroline try to save them, Sybil plays mind games, especially with Damon, messing with his memories of Elena.
+
 Meanwhile, Cade, the devil himself, makes Stefan and Damon his soul collectors, pushing Stefan back into his Ripper ways. Caroline and Alaric try to protect their magically gifted twins connected to the sirens. Bonnie works to bring Enzo back, but tragedy strikes when Stefan kills him, sending Bonnie into deep grief.
+
 Ultimately, the gang takes down Cade, but the real fight is against Katherine, who dramatically returns as the new queen of Hell. The series ends with a huge sacrifice—Stefan dies to save Mystic Falls, Damon gets to live a human life with Elena, and Bonnie finally finds peace after everything she's been through. The final scene shows everyone reunited in the afterlife, bringing the show to an emotional close.
+
+
 <br>
 <img src="/blog-/Images/death.webp" alt="the vampire diaries season 2" width="350" height="400"> 
 <br>
